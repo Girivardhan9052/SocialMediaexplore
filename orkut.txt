@@ -1,3 +1,5 @@
 Hello
 This is first outlook.
 updating for testing the commit.
+testing  git fetch and git pull at a time.....
+This is for clone command.
