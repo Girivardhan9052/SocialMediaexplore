@@ -2,4 +2,8 @@ Hello
 This is first outlook.
 updating for testing the commit.
 testing  git fetch and git pull at a time.....
+<<<<<<< HEAD
+testing sshkey with the different remote repo...
+=======
 This is for clone command.
+>>>>>>> 0d5689a0908651546640e4b87999b320012b8122
